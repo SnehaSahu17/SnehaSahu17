@@ -40,7 +40,7 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 <p align="center">
 <a href="https://github.com/SnehaSahu17">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaSahu17&theme=nord&hide_border=true"/>
-  <img height="180em" src="![SnehaSahu17's Stats](https://github-readme-stats.vercel.app/api?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 </p>
 
