@@ -17,7 +17,7 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SnehaSahu17)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 🛠 &nbsp;Tech Stack 
+##Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -45,10 +45,10 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 </p>
 
 
-### 🤝🏻 &nbsp;Connect with Me
+##Connect with Me
 
 <p align="center">
-<a href="https://sneha-sahu.vercel.app/"><img src="https://img.shields.io/badge/-sambitsankalp.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sneha-sahu-7117691b7/"><img src="https://img.shields.io/badge/-Sambit%20Sankalp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:s.sneha1712@gmail.com"><img src="https://img.shields.io/badge/- sambit.sankalp.offcial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://sneha-sahu.vercel.app/"><img src="https://img.shields.io/badge/-snehasahu.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sneha-sahu-7117691b7/"><img src="https://img.shields.io/badge/-Sneha%20Sahu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:s.sneha1712@gmail.com"><img src="https://img.shields.io/badge/- s.sneha1712@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
