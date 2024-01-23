@@ -15,6 +15,6 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 - Checkout my Portfolio <a href="https://sneha-sahu.vercel.app/">here</a>.
 - Know about my experience: [[Resume](https://drive.google.com/file/d/1QiskGwheiaTQMVBSNybfyL5Q6NHXbQy3/view?usp=sharing)]I'm open to feedback and suggestions!
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=SnehaSahu17)](https://github.com/ryo-ma/github-profile-trophy)
 
 
