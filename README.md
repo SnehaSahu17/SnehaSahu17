@@ -39,10 +39,8 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 
 ![SnehaSahu17's Stats](https://github-readme-stats.vercel.app/api?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-<p>
-  &nbsp;![SnehaSahu17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnehaSahu17&theme=nord&hide_border=true)
-  &nbsp;![SnehaSahu17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&layout=compact)
-</p>
+![SnehaSahu17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SnehaSahu17&theme=nord&hide_border=true)
+![SnehaSahu17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ### 🤝🏻 &nbsp;Connect with Me
 
