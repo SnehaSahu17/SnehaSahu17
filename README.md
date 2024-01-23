@@ -47,7 +47,7 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 
 ## Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://sneha-sahu.vercel.app/"><img src="https://img.shields.io/badge/-snehasahu.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sneha-sahu-7117691b7/"><img src="https://img.shields.io/badge/-Sneha%20Sahu-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:s.sneha1712@gmail.com"><img src="https://img.shields.io/badge/- s.sneha1712@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
