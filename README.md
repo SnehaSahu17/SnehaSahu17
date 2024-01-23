@@ -32,4 +32,12 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://sneha-sahu.vercel.app/"><img src="https://img.shields.io/badge/-sambitsankalp.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sneha-sahu-7117691b7/"><img src="https://img.shields.io/badge/-Sambit%20Sankalp-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:s.sneha1712@gmail.com"><img src="https://img.shields.io/badge/- sambit.sankalp.offcial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+</p>
