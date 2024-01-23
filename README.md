@@ -17,7 +17,7 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=SnehaSahu17)](https://github.com/ryo-ma/github-profile-trophy)
 
-##Tech Stack 
+## Tech Stack 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
@@ -39,13 +39,13 @@ I'm a passionate self-taught full-stack and MERN stack web developer from India.
 ![SnehaSahu17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&layout=compact)
 <p align="left">
 <a href="https://github.com/SnehaSahu17">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaSahu17&theme=nord&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=SnehaSahu17&theme=nord&hide_border=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SnehaSahu17&theme=nord&show_icons=true&hide_border=true&count_private=true"/>
 </a>
 </p>
 
 
-##Connect with Me
+## Connect with Me
 
 <p align="center">
 <a href="https://sneha-sahu.vercel.app/"><img src="https://img.shields.io/badge/-snehasahu.tech-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
